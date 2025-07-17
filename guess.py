@@ -14,5 +14,3 @@ if guess == answer:
     print("축하합니다. 시도횟수= ", tries)
 else:
     print("10번 시도 끝!! 정답은 ", answer)
-
-    
